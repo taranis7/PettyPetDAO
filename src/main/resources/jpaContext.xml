@@ -28,7 +28,7 @@
 				<entry key="hibernate.dialect" value="org.hibernate.dialect.MySQL5InnoDBDialect" />
 				<entry key="hibernate.hbm2ddl.auto" value="update" />
 				<entry key="hibernate.format_sql" value="true" />
-				<entry key="hibernate.default_schema" value="project_report"/>
+				<entry key="hibernate.default_schema" value="sql11169244"/>
 			</map>
 		</property>
 	</bean>
